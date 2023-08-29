@@ -1,2 +1,2 @@
 # python-exercises
-Operadores Aritméticos- Exercícios
+Aqui está alguns exercícios em Python!
